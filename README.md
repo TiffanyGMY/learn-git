@@ -1,7 +1,7 @@
 # Git 学习资源
 
 ## 推荐书籍
-- 《Git 版本控制管理》
+- [《Git 版本控制管理》](http://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Daps&field-keywords=Git+%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%AE%A1%E7%90%86)
 
 ## 常用命令
 
