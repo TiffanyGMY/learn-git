@@ -86,6 +86,13 @@ $ git diff 3c52d3f8ddb1ea0da4b35c7e9aac1125ee82a806 \
 $ git rm some.html
 rm 'some.html'
 ```
+
+### 删除索引中的文件（不会删除文件，但会删除 git 中的记录）
+
+```
+git rm --cached some.html
+```
+
 ### 文件重命名
 
 ```
